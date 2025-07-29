@@ -1,0 +1,60 @@
+[
+  {
+    "id": "cus_SlH9tpgvdfJFV9",
+    "object": "customer",
+    "address": null,
+    "balance": 0,
+    "created": 1753684297,
+    "currency": null,
+    "default_source": null,
+    "delinquent": false,
+    "description": null,
+    "discount": null,
+    "email": "wl8381@gmail.com",
+    "invoice_prefix": "ROGAIKPZ",
+    "invoice_settings": {
+      "custom_fields": null,
+      "default_payment_method": null,
+      "footer": null,
+      "rendering_options": null
+    },
+    "livemode": false,
+    "metadata": {},
+    "name": "George Smith",
+    "next_invoice_sequence": 1,
+    "phone": null,
+    "preferred_locales": [],
+    "shipping": null,
+    "tax_exempt": "none",
+    "test_clock": null
+  },
+  {
+    "id": "cus_SlH0dgHaH5GIY9",
+    "object": "customer",
+    "address": null,
+    "balance": 0,
+    "created": 1753683777,
+    "currency": null,
+    "default_source": null,
+    "delinquent": false,
+    "description": "Test Customer",
+    "discount": null,
+    "email": "wl8380@gmail.com",
+    "invoice_prefix": "IPLXAFZ7",
+    "invoice_settings": {
+      "custom_fields": null,
+      "default_payment_method": null,
+      "footer": null,
+      "rendering_options": null
+    },
+    "livemode": false,
+    "metadata": {},
+    "name": "Jenny Rose",
+    "next_invoice_sequence": 1,
+    "phone": null,
+    "preferred_locales": [],
+    "shipping": null,
+    "tax_exempt": "none",
+    "test_clock": null
+  }
+]
